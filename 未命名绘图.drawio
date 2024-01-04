@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T08:53:14.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aR-ZipwNCe5mDA7fogmu" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T12:09:42.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nzYLnuYHc-2svc4YhGKW" version="22.1.16" type="github">
   <diagram id="8YFWgbgVcO6-vwJ8IvwV" name="第 1 页">
     <mxGraphModel dx="1642" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,9 +23,9 @@
           <mxGeometry x="620" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgzIw1-CkxO_cI2bNOXv-6" value="展示场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="-60" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hgzIw1-CkxO_cI2bNOXv-7" value="基础服务场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-7" value="基础平台能力" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="452.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgzIw1-CkxO_cI2bNOXv-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -77,7 +77,7 @@
           <mxGeometry x="50" y="555" width="750" height="95" as="geometry" />
         </mxCell>
         <mxCell id="hgzIw1-CkxO_cI2bNOXv-30" value="烽火台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="587.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="50" y="557.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgzIw1-CkxO_cI2bNOXv-31" value="ams(计划中心)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="70" y="452.5" width="110" height="30" as="geometry" />
@@ -96,6 +96,24 @@
         </mxCell>
         <mxCell id="hgzIw1-CkxO_cI2bNOXv-36" value="ans(触达中心)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="670" y="452.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-37" value="活动创建" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-38" value="提交审核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-39" value="创建成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-40" value="发布" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="430" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-41" value="活动计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="550" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hgzIw1-CkxO_cI2bNOXv-43" value="活动结算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="670" y="600" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
