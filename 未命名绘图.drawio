@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T03:22:35.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pN4ew2oeCBowJqKdkguH" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T06:00:03.737Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_91okbk5XftUcBWxaBl7" version="22.1.16" type="github">
   <diagram id="8YFWgbgVcO6-vwJ8IvwV" name="第 1 页">
-    <mxGraphModel dx="1240" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1882" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="730" width="520" height="670" as="geometry" />
+        </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="780" width="530" height="930" as="geometry" />
+          <mxGeometry x="-250" y="800" width="530" height="980" as="geometry" />
         </mxCell>
         <mxCell id="nUZS-_edcsPRgrgGCuFx-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="53" y="65" width="168" height="330" as="geometry" />
@@ -140,16 +143,16 @@
           <mxGeometry x="-200" y="970" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-7" value="最低门槛单均下限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1010" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="1000" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-8" value="最高门槛单均上限" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1055" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="1030" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3CqS7RNdXRY-ojEXQV0p-9" value="tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="860" width="40" height="30" as="geometry" />
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-9" value="step2 tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-11" value="全城--智能或人工--不使用人群分流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="800" width="270" height="30" as="geometry" />
+          <mxGeometry x="-120" y="740" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-12" value="选择骑手方式组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="101" y="960" width="130" height="30" as="geometry" />
@@ -158,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-17" value="是否冻结骑手组件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1100" width="100" height="80" as="geometry" />
+          <mxGeometry x="-185" y="1060" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CqS7RNdXRY-ojEXQV0p-19" target="3CqS7RNdXRY-ojEXQV0p-23">
           <mxGeometry relative="1" as="geometry" />
@@ -167,28 +170,133 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-19" value="冻结骑手方式组件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="1220" width="100" height="80" as="geometry" />
+          <mxGeometry x="-185" y="1180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-21" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1170" width="60" height="30" as="geometry" />
+          <mxGeometry x="-195" y="1130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-23" value="冻结骑手画像组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1340" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="1300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-25" value="骑手画像" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1300" width="60" height="30" as="geometry" />
+          <mxGeometry x="-195" y="1260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-26" value="直接输入骑手ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="1245" width="60" height="30" as="geometry" />
+          <mxGeometry x="-35" y="1205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-28" value="骑手ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="1230" width="60" height="30" as="geometry" />
+          <mxGeometry x="-95" y="1190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-29" value="执行智能人群推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1400" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="1330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3CqS7RNdXRY-ojEXQV0p-30" value="智能人群推荐结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-205" y="1460" width="130" height="30" as="geometry" />
+          <mxGeometry x="-200" y="1360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-31" value="全城--智能或人工--使用人群分流" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="740" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-32" value="人工&amp;amp;智能方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-33" value="无选择方案逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="800" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-34" value="人群分流方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-35" value="step1人群分流方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-36" value="人工配置人群" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-37" value="step2 tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="860" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-38" value="选择骑手方式组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="920" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-39" value="step3 tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="1015" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-40" value="人工方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1015" width="78.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-41" value="智能方案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="682.25" y="1015" width="78.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-42" value="人群分流属性展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="1100" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-44" value="活动人群展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="1130" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-45" value="网页配置方案组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.5" y="1160" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-47" value="活动名称组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1090" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-48" value="app 文案组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-49" value="策略预算组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-50" value="最低门槛单均下限组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-51" value="人群分流属性展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1210" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-52" value="活动人群展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-53" value="执行智能推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-54" value="智能推荐策略结果展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-58" value="step3 tab" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-59" value="人工配置策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-60" value="智能推荐策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-61" value="活动人群展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-209.25" y="1550" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-62" value="网页配置方案组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-209.25" y="1580" width="188.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-63" value="活动名称组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-64" value="app 文案组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1530" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-65" value="策略预算组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1560" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-66" value="最低门槛单均下限组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1590" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-67" value="最高门槛单均上限组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1620" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-68" value="活动人群展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1650" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-69" value="执行智能推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1680" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CqS7RNdXRY-ojEXQV0p-70" value="智能推荐策略结果展示组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1710" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
